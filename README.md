@@ -1,3 +1,3 @@
 # kittensgame-css-windows10-japanese
 
-Windows10の日本語環境+Chromeで利用すると横幅が小さくて表示が崩れるのを解決するためのCSS
+Windows10の日本語環境+Chromeで利用すると横幅が小さくて表示が崩れるのを解決するためのchrome拡張
