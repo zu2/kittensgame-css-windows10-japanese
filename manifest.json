@@ -1,0 +1,12 @@
+{
+  "name": "kittensgame.com css",
+  "version": "1.0",
+  "description": "CSS for https://kittensgame.com/web/",
+  "content_scripts": [
+    {
+      "matches": [ "https://kittensgame.com/web/*" ],
+      "css": [ "style.css" ]
+    }
+  ],
+  "manifest_version": 2
+}
